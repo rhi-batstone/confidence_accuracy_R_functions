@@ -1,8 +1,5 @@
----
-title: "README"
-output: html_document
-date: "22 May 2026"
----
+Updated: 22 May 2026
+
 
 # Confidence-Accuracy (CA) Analysis Functions
 
